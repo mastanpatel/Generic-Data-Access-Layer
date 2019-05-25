@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessHandler", "DataAccessHandler\DataAccessHandler.csproj", "{644E69AF-ED49-476E-A316-30C18D705F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessHandler.ConsoleApp", "DataAccessHandler.ConsoleApp\DataAccessHandler.ConsoleApp.csproj", "{BDBDCDFF-9390-4A17-8E19-4A7E5D2CAEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644E69AF-ED49-476E-A316-30C18D705F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644E69AF-ED49-476E-A316-30C18D705F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644E69AF-ED49-476E-A316-30C18D705F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644E69AF-ED49-476E-A316-30C18D705F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBDCDFF-9390-4A17-8E19-4A7E5D2CAEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBDCDFF-9390-4A17-8E19-4A7E5D2CAEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBDCDFF-9390-4A17-8E19-4A7E5D2CAEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBDCDFF-9390-4A17-8E19-4A7E5D2CAEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
